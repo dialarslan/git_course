@@ -1,3 +1,3 @@
 # calculator
-calculator design using html and css and js 
+calculator designed by html and css and js 
 
